@@ -35,6 +35,7 @@ Directus
 ![PHP](./assets/programming-languages/language-php.svg)
 ![SASS/SCSS](./assets/programming-languages/sass.svg)
 ![CSS](./assets/programming-languages/language-css3.svg)
+![REST-API](./assets/programming-languages/code-json.svg)
 
 
 
