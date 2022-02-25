@@ -1,5 +1,5 @@
 # [Utomic Media](https://utomic.media)
-### German based agency specialsed in Webdevelopment, Webdesign, WebApps, Rest-APIs and headless CMS  👋
+### German based agency for Webdevelopment, Webdesign, WebApps, Rest-APIs and headless CMS  👋
 
 <!--
 **utomic-media/.github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
