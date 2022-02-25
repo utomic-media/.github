@@ -9,11 +9,34 @@
 * 💡 &nbsp; **[Contact](https://utomic.media/kontakt)** — _Feel free to contact us_
 
 
+<!-- TODO: create tags out of svgs -->
+<!-- TODO: fill dynamically based on light / dark theme -->
 
-<img src="https://cdn.jsdelivr.net/npm/@mdi/svg@6.5.95/svg/wordpress.svg" alt="Wordpress Logo" /> `WordPress`
+### Services
+![Webdesign](./assets/categories/monitor-screenshot.svg)
+![Webdevelopment](./assets/categories/xml.svg)
+![CMS](./assets/categories/folder-cog-outline.svg)
+![Newsletter](./assets/categories/email-fast-outline.svg)
+![Online-Marketing](./assets/categories/finance.svg)
+![Online-Shops](./assets/categories/cart-plus.svg)
+     
+### Tools
+![WordPress](./assets/tools/wordpress.svg)
+![VueJs](./assets/tools/vuejs.svg)
+![Nuxt](./assets/tools/nuxt.svg)
+![Vuetify](./assets/tools/vuetify.svg)
+![Tailwind](./assets/tools/tailwind.svg)
+Directus  
+![Laravel](./assets/tools/laravel.svg)
 
-Webdesign Webdevelopment CMS Newsletter Online-Marketing Online-Shops
-VueJs NuxtJs Wordpress Tailwind Directus  SASS/SCSS
-PHP NodeJs JavaScript CSS
+### Programming languages
+![JavaScript](./assets/programming-languages/language-javascript.svg)
+![NodeJs](./assets/programming-languages/nodejs.svg)
+![PHP](./assets/programming-languages/language-php.svg)
+![SASS/SCSS](./assets/programming-languages/sass.svg)
+![CSS](./assets/programming-languages/language-css3.svg)
+
+
+
 
 
