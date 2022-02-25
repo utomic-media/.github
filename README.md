@@ -9,33 +9,32 @@
 * 💡 &nbsp; **[Contact](https://utomic.media/kontakt)** — _Feel free to contact us_
 
 
-<!-- TODO: create tags out of svgs -->
-<!-- TODO: fill dynamically based on light / dark theme -->
+
 
 ### Services
-![Webdesign](./assets/categories/monitor-screenshot.svg)
-![Webdevelopment](./assets/categories/xml.svg)
-![CMS](./assets/categories/folder-cog-outline.svg)
-![Newsletter](./assets/categories/email-fast-outline.svg)
-![Online-Marketing](./assets/categories/finance.svg)
-![Online-Shops](./assets/categories/cart-plus.svg)
+![Webdesign](./assets/categories/monitor-screenshot.svg) `Webdesign`
+![Webdevelopment](./assets/categories/xml.svg) `Webdevelopment`
+![CMS](./assets/categories/folder-cog-outline.svg) `CMS`
+![Newsletter](./assets/categories/email-fast-outline.svg) `Newsletter`
+![Online-Marketing](./assets/categories/finance.svg) `Online-Marketing`
+![Online-Shops](./assets/categories/cart-plus.svg) `Online-Shops`
      
 ### Tools
-![WordPress](./assets/tools/wordpress.svg)
-![VueJs](./assets/tools/vuejs.svg)
-![Nuxt](./assets/tools/nuxt.svg)
-![Vuetify](./assets/tools/vuetify.svg)
-![Tailwind](./assets/tools/tailwind.svg)
+![WordPress](./assets/tools/wordpress.svg) `WordPress`
+![VueJs](./assets/tools/vuejs.svg) `VueJs`
+![Nuxt](./assets/tools/nuxt.svg) `Nuxt`
+![Vuetify](./assets/tools/vuetify.svg) `Vuetify`
+![Tailwind](./assets/tools/tailwind.svg) `Tailwind`
 Directus  
-![Laravel](./assets/tools/laravel.svg)
+![Laravel](./assets/tools/laravel.svg) `Laravel`
 
 ### Programming languages
-![JavaScript](./assets/programming-languages/language-javascript.svg)
-![NodeJs](./assets/programming-languages/nodejs.svg)
-![PHP](./assets/programming-languages/language-php.svg)
-![SASS/SCSS](./assets/programming-languages/sass.svg)
-![CSS](./assets/programming-languages/language-css3.svg)
-![REST-API](./assets/programming-languages/code-json.svg)
+![JavaScript](./assets/programming-languages/language-javascript.svg) `JavaScript`
+![NodeJs](./assets/programming-languages/nodejs.svg) `NodeJs`
+![PHP](./assets/programming-languages/language-php.svg) `PHP`
+![SASS/SCSS](./assets/programming-languages/sass.svg) `SASS/SCSS`
+![CSS](./assets/programming-languages/language-css3.svg) `CSS`
+![REST-API](./assets/programming-languages/code-json.svg) `REST-API`
 
 
 
