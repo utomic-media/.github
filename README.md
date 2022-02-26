@@ -9,7 +9,16 @@
 * 💡 &nbsp; **[Contact](https://utomic.media/kontakt)** — _Feel free to contact us_
 
 
+### Services
 
+<div>
+  <img
+    style="max-width: 100%;margin-left: 20px;transform: translateY(25%);"
+    src="./assets/categories/monitor-screenshot.svg"
+    alt="Webdesign"
+  />
+  <span>Webdesign</span>
+</div>
 
 ### Services
 ![Webdesign](./assets/categories/monitor-screenshot.svg) `Webdesign`
