@@ -9,18 +9,10 @@
 * 💡 &nbsp; **[Contact](https://utomic.media/kontakt)** — _Feel free to contact us_
 
 
-### Services
 
-<div>
-  <img
-    style="max-width: 100%;margin-left: 20px;transform: translateY(25%);"
-    src="./assets/categories/monitor-screenshot.svg"
-    alt="Webdesign"
-  />
-  <span>Webdesign</span>
-</div>
 
 ### Services
+
 ![Webdesign](./assets/categories/monitor-screenshot.svg) `Webdesign`
 ![Webdevelopment](./assets/categories/xml.svg) `Webdevelopment`
 ![CMS](./assets/categories/folder-cog-outline.svg) `CMS`
@@ -34,7 +26,7 @@
 ![Nuxt](./assets/tools/nuxt.svg) `Nuxt`
 ![Vuetify](./assets/tools/vuetify.svg) `Vuetify`
 ![Tailwind](./assets/tools/tailwind.svg) `Tailwind`
-Directus  
+`Directus`  
 ![Laravel](./assets/tools/laravel.svg) `Laravel`
 
 ### Programming languages
