@@ -17,34 +17,34 @@
 
 ### Services
 
-![Webdevelopment](./assets/cards/Webdevelopment@1x.svg)
-![Webdesign](./assets/cards/Webdesign@1x.svg)
-![CMS](./assets/cards/CMS@1x.svg)
-![Newsletter](./assets/cards/Newsletter@1x.svg)
-![Online-Marketing](./assets/cards/Online-Marketing@1x.svg)
-![Online-Shops](./assets/cards/Online-Shops@1x.svg)
-![Plugins and Extensions](./assets/cards/Plugin-Extensions@1x.svg)
+![Webdevelopment](./assets/cards/Webdevelopment@0.75.svg)
+![Webdesign](./assets/cards/Webdesign@0.75.svg)
+![CMS](./assets/cards/CMS@0.75.svg)
+![Newsletter](./assets/cards/Newsletter@0.75.svg)
+![Online-Marketing](./assets/cards/Online-Marketing@0.75.svg)
+![Online-Shops](./assets/cards/Online-Shops@0.75.svg)
+![Plugins and Extensions](./assets/cards/Plugin-Extensions@0.75.svg)
      
 ### Tools
-![WordPress](./assets/cards/WordPress@1x.svg)
-![Directus](./assets/cards/Directus@1x.svg)
-![VueJs](./assets/cards/VueJs@1x.svg)
-![Nuxt](./assets/cards/Nuxt@1x.svg)
-![Vuetify](./assets/cards/Vuetify@1x.svg)
-![Tailwind](./assets/cards/Tailwind@1x.svg)
-![Express](./assets/cards/Express@1x.svg)
-![Laravel](./assets/cards/Laravel@1x.svg)
+![WordPress](./assets/cards/WordPress@0.75.svg)
+![Directus](./assets/cards/Directus@0.75.svg)
+![VueJs](./assets/cards/VueJs@0.75.svg)
+![Nuxt](./assets/cards/Nuxt@0.75.svg)
+![Vuetify](./assets/cards/Vuetify@0.75.svg)
+![Tailwind](./assets/cards/Tailwind@0.75.svg)
+![Express](./assets/cards/Express@0.75.svg)
+![Laravel](./assets/cards/Laravel@0.75.svg)
 
 ### Programming languages
-![JavaScript](./assets/cards/JavaScript@1x.svg)
-![NodeJs](./assets/cards/NodeJs@1x.svg)
-![PHP](./assets/cards//PHP@1x.svg)
-![SASS/SCSS](./assets/cards/SASS-SCSS@1x.svg)
-![CSS](./assets/cards/CSS@1x.svg)
-![REST-API](./assets/cards/REST-API@1x.svg)
+![JavaScript](./assets/cards/JavaScript@0.75.svg)
+![NodeJs](./assets/cards/NodeJs@0.75.svg)
+![PHP](./assets/cards//PHP@0.75.svg)
+![SASS/SCSS](./assets/cards/SASS-SCSS@0.75.svg)
+![CSS](./assets/cards/CSS@0.75.svg)
+![REST-API](./assets/cards/REST-API@0.75.svg)
 
 ### Coming soon...
-![Your Project](./assets/cards/your-project@1x.svg)
+![Your Project](./assets/cards/your-project@0.75.svg)
 
 
 ![Utomic Media](./assets/cards/Utomic-Media-Logo.png)
