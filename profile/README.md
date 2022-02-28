@@ -76,5 +76,5 @@
 ![Your Project](./assets/cards/your-project.svg  | width=200)
 
 
-![Utomic Media](./assets/cards/Utomic-Media-Logo.png | width=250)
+![Utomic Media](./assets/Utomic-Media-Logo.png | width=250)
 
