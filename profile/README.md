@@ -9,35 +9,43 @@
 * 💡 &nbsp; **[Contact](https://utomic.media/kontakt)** — _Feel free to contact us_
 
 
-
+<!-- TODO: create tags out of svgs / use list -->
+<!-- TODO:  Add Utomic logo to the end -->
+<!-- TODO: icon alignment and spacing -->
+<!-- TODO: stash commit history (simply "add readme") -->
+<!-- TODO: display on github profile -->
 
 ### Services
 
-![Webdesign](./assets/categories/monitor-screenshot.svg) `Webdesign`
-![Webdevelopment](./assets/categories/xml.svg) `Webdevelopment`
-![CMS](./assets/categories/folder-cog-outline.svg) `CMS`
-![Newsletter](./assets/categories/email-fast-outline.svg) `Newsletter`
-![Online-Marketing](./assets/categories/finance.svg) `Online-Marketing`
-![Online-Shops](./assets/categories/cart-plus.svg) `Online-Shops`
+![Webdevelopment](../assets/Webdevelopment@1x.svg) `Webdevelopment`
+![Webdesign](../assets/Webdesign@1x.svg) `Webdesign`
+![CMS](../assets/CMS@1x.svg) `CMS`
+![Newsletter](../assets/Newsletter@1x.svg) `Newsletter`
+![Online-Marketing](../assets/Online-Marketing@1x.svg) `Online-Marketing`
+![Online-Shops](../assets/Online-Shops@1x.svg) `Online-Shops`
+![Plugins and Extensions](../assets/Plugin-Extensions@1x.svg) `Plugins and Extensions`
      
 ### Tools
-![WordPress](./assets/tools/wordpress.svg) `WordPress`
-![VueJs](./assets/tools/vuejs.svg) `VueJs`
-![Nuxt](./assets/tools/nuxt.svg) `Nuxt`
-![Vuetify](./assets/tools/vuetify.svg) `Vuetify`
-![Tailwind](./assets/tools/tailwind.svg) `Tailwind`
-`Directus`  
-![Laravel](./assets/tools/laravel.svg) `Laravel`
+![WordPress](../assets/WordPress@1x.svg) `WordPress`
+![Directus](../assets/Directus@1x.svg) `Directus`
+![VueJs](../assets/VueJs@1x.svg) `VueJs`
+![Nuxt](../assets/Nuxt@1x.svg) `Nuxt`
+![Vuetify](../assets/Vuetify@1x.svg) `Vuetify`
+![Tailwind](../assets/Tailwind@1x.svg) `Tailwind`
+![Express](../assets/Express@1x.svg) `Express`
+![Laravel](../assets/Laravel@1x.svg) `Laravel`
 
 ### Programming languages
-![JavaScript](./assets/programming-languages/language-javascript.svg) `JavaScript`
-![NodeJs](./assets/programming-languages/nodejs.svg) `NodeJs`
-![PHP](./assets/programming-languages/language-php.svg) `PHP`
-![SASS/SCSS](./assets/programming-languages/sass.svg) `SASS/SCSS`
-![CSS](./assets/programming-languages/language-css3.svg) `CSS`
-![REST-API](./assets/programming-languages/code-json.svg) `REST-API`
+![JavaScript](../assets/JavaScript@1x.svg) `JavaScript`
+![NodeJs](../assets/NodeJs@1x.svg) `NodeJs`
+![PHP](../assets//PHP@1x.svg) `PHP`
+![SASS/SCSS](../assets/SASS-SCSS@1x.svg) `SASS/SCSS`
+![CSS](../assets/CSS@1x.svg) `CSS`
+![REST-API](../assets/REST-API@1x.svg) `REST-API`
+
+### Coming soon...
+![Your Project](../assets/your-project@1x.svg) `Your Project`
 
 
-
-
+![Utomic Media](../assets/Utomic-Media-Logo.png) `Utomic Media`
 
