@@ -17,35 +17,35 @@
 
 ### Services
 
-![Webdevelopment](../assets/Webdevelopment@1x.svg) `Webdevelopment`
-![Webdesign](../assets/Webdesign@1x.svg) `Webdesign`
-![CMS](../assets/CMS@1x.svg) `CMS`
-![Newsletter](../assets/Newsletter@1x.svg) `Newsletter`
-![Online-Marketing](../assets/Online-Marketing@1x.svg) `Online-Marketing`
-![Online-Shops](../assets/Online-Shops@1x.svg) `Online-Shops`
-![Plugins and Extensions](../assets/Plugin-Extensions@1x.svg) `Plugins and Extensions`
+![Webdevelopment](../assets/Webdevelopment@1x.svg)
+![Webdesign](../assets/Webdesign@1x.svg)
+![CMS](../assets/CMS@1x.svg)
+![Newsletter](../assets/Newsletter@1x.svg)
+![Online-Marketing](../assets/Online-Marketing@1x.svg)
+![Online-Shops](../assets/Online-Shops@1x.svg)
+![Plugins and Extensions](../assets/Plugin-Extensions@1x.svg)
      
 ### Tools
-![WordPress](../assets/WordPress@1x.svg) `WordPress`
-![Directus](../assets/Directus@1x.svg) `Directus`
-![VueJs](../assets/VueJs@1x.svg) `VueJs`
-![Nuxt](../assets/Nuxt@1x.svg) `Nuxt`
-![Vuetify](../assets/Vuetify@1x.svg) `Vuetify`
-![Tailwind](../assets/Tailwind@1x.svg) `Tailwind`
-![Express](../assets/Express@1x.svg) `Express`
-![Laravel](../assets/Laravel@1x.svg) `Laravel`
+![WordPress](../assets/WordPress@1x.svg)
+![Directus](../assets/Directus@1x.svg)
+![VueJs](../assets/VueJs@1x.svg)
+![Nuxt](../assets/Nuxt@1x.svg)
+![Vuetify](../assets/Vuetify@1x.svg)
+![Tailwind](../assets/Tailwind@1x.svg)
+![Express](../assets/Express@1x.svg)
+![Laravel](../assets/Laravel@1x.svg)
 
 ### Programming languages
-![JavaScript](../assets/JavaScript@1x.svg) `JavaScript`
-![NodeJs](../assets/NodeJs@1x.svg) `NodeJs`
-![PHP](../assets//PHP@1x.svg) `PHP`
-![SASS/SCSS](../assets/SASS-SCSS@1x.svg) `SASS/SCSS`
-![CSS](../assets/CSS@1x.svg) `CSS`
-![REST-API](../assets/REST-API@1x.svg) `REST-API`
+![JavaScript](../assets/JavaScript@1x.svg)
+![NodeJs](../assets/NodeJs@1x.svg)
+![PHP](../assets//PHP@1x.svg)
+![SASS/SCSS](../assets/SASS-SCSS@1x.svg)
+![CSS](../assets/CSS@1x.svg)
+![REST-API](../assets/REST-API@1x.svg)
 
 ### Coming soon...
-![Your Project](../assets/your-project@1x.svg) `Your Project`
+![Your Project](../assets/your-project@1x.svg)
 
 
-![Utomic Media](../assets/Utomic-Media-Logo.png) `Utomic Media`
+![Utomic Media](../assets/Utomic-Media-Logo.png)
 
