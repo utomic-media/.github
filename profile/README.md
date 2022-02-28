@@ -55,26 +55,96 @@
 
      
 ### Tools
-![WordPress](./assets/cards/WordPress.svg | width=200)
-![Directus](./assets/cards/Directus.svg | width=200)
-![VueJs](./assets/cards/VueJs.svg  | width=200)
-![Nuxt](./assets/cards/Nuxt.svg | width=200)
-![Vuetify](./assets/cards/Vuetify.svg | width=200)
-![Tailwind](./assets/cards/Tailwind.svg | width=200)
-![Express](./assets/cards/Express.svg | width=200)
-![Laravel](./assets/cards/Laravel.svg | width=200)
+<img 
+  src="./assets/cards/WordPress.svg"
+  alt="WordPress"
+  width="200px"
+/>
+<img 
+  src="./assets/cards/Directus.svg"
+  alt="Directus"
+  width="200px"
+/>
+<img 
+  src="./assets/cards/VueJs.svg"
+  alt="VueJs"
+  width="200px"
+/>
+<img 
+  src="./assets/cards/Nuxt.svg"
+  alt="Nuxt"
+  width="200px"
+/>
+<img 
+  src="./assets/cards/Vuetify.svg"
+  alt="Vuetify"
+  width="200px"
+/>
+<img 
+  src="./assets/cards/Tailwind.svg"
+  alt="Tailwind"
+  width="200px"
+/>
+<img 
+  src="./assets/cards/Express.svg"
+  alt="Express"
+  width="200px"
+/>
+<img 
+  src="./assets/cards/Laravel.svg"
+  alt="Laravel"
+  width="200px"
+/>
+
 
 ### Programming languages
-![JavaScript](./assets/cards/JavaScript.svg | width=200)
-![NodeJs](./assets/cards/NodeJs.svg | width=200)
-![PHP](./assets/cards//PHP.svg | width=200)
-![SASS/SCSS](./assets/cards/SASS-SCSS.svg | width=200)
-![CSS](./assets/cards/CSS.svg | width=200)
-![REST-API](./assets/cards/REST-API.svg | width=200)
+<img 
+  src="./assets/cards/JavaScript.svg"
+  alt="JavaScript"
+  width="200px"
+/>
+<img 
+  src="./assets/cards/NodeJs.svg"
+  alt="NodeJs"
+  width="200px"
+/>
+<img 
+  src="./assets/cards//PHP.svg"
+  alt="PHP"
+  width="200px"
+/>
+<img 
+  src="./assets/cards/REST-API.svg"
+  alt="REST-API"
+  width="200px"
+/>
+<img 
+  src="./assets/cards/SASS-SCSS.svg"
+  alt="SASS/SCSS"
+  width="200px"
+/>
+<img 
+  src="./assets/cards/CSS.svg"
+  alt="CSS"
+  width="200px"
+/>
+
+
 
 ### Coming soon...
-![Your Project](./assets/cards/your-project.svg  | width=200)
+<img 
+  src="./assets/cards/your-project.svg"
+  alt="Your Project"
+  width="240px"
+/>
 
 
-![Utomic Media](./assets/Utomic-Media-Logo.png | width=250)
+<p align="center">
+  <img 
+    src="./assets/Utomic-Media-Logo.png"
+    alt="Utomic Media"
+    width="240px"
+  />
+</p>
+
 
