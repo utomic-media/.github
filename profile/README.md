@@ -55,26 +55,26 @@
 
      
 ### Tools
-![WordPress](./assets/cards/WordPress.svg)
-![Directus](./assets/cards/Directus.svg)
-![VueJs](./assets/cards/VueJs.svg)
-![Nuxt](./assets/cards/Nuxt.svg)
-![Vuetify](./assets/cards/Vuetify.svg)
-![Tailwind](./assets/cards/Tailwind.svg)
-![Express](./assets/cards/Express.svg)
-![Laravel](./assets/cards/Laravel.svg)
+![WordPress](./assets/cards/WordPress.svg | width=200)
+![Directus](./assets/cards/Directus.svg | width=200)
+![VueJs](./assets/cards/VueJs.svg  | width=200)
+![Nuxt](./assets/cards/Nuxt.svg | width=200)
+![Vuetify](./assets/cards/Vuetify.svg | width=200)
+![Tailwind](./assets/cards/Tailwind.svg | width=200)
+![Express](./assets/cards/Express.svg | width=200)
+![Laravel](./assets/cards/Laravel.svg | width=200)
 
 ### Programming languages
-![JavaScript](./assets/cards/JavaScript.svg)
-![NodeJs](./assets/cards/NodeJs.svg)
-![PHP](./assets/cards//PHP.svg)
-![SASS/SCSS](./assets/cards/SASS-SCSS.svg)
-![CSS](./assets/cards/CSS.svg)
-![REST-API](./assets/cards/REST-API.svg)
+![JavaScript](./assets/cards/JavaScript.svg | width=200)
+![NodeJs](./assets/cards/NodeJs.svg | width=200)
+![PHP](./assets/cards//PHP.svg | width=200)
+![SASS/SCSS](./assets/cards/SASS-SCSS.svg | width=200)
+![CSS](./assets/cards/CSS.svg | width=200)
+![REST-API](./assets/cards/REST-API.svg | width=200)
 
 ### Coming soon...
-![Your Project](./assets/cards/your-project.svg)
+![Your Project](./assets/cards/your-project.svg  | width=200)
 
 
-![Utomic Media](./assets/cards/Utomic-Media-Logo.png)
+![Utomic Media](./assets/cards/Utomic-Media-Logo.png | width=250)
 
