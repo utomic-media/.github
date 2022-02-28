@@ -17,35 +17,35 @@
 
 ### Services
 
-![Webdevelopment](./assets/Webdevelopment@1x.svg)
-![Webdesign](./assets/Webdesign@1x.svg)
-![CMS](./assets/CMS@1x.svg)
-![Newsletter](./assets/Newsletter@1x.svg)
-![Online-Marketing](./assets/Online-Marketing@1x.svg)
-![Online-Shops](./assets/Online-Shops@1x.svg)
-![Plugins and Extensions](./assets/Plugin-Extensions@1x.svg)
+![Webdevelopment](./assets/cards/Webdevelopment@1x.svg)
+![Webdesign](./assets/cards/Webdesign@1x.svg)
+![CMS](./assets/cards/CMS@1x.svg)
+![Newsletter](./assets/cards/Newsletter@1x.svg)
+![Online-Marketing](./assets/cards/Online-Marketing@1x.svg)
+![Online-Shops](./assets/cards/Online-Shops@1x.svg)
+![Plugins and Extensions](./assets/cards/Plugin-Extensions@1x.svg)
      
 ### Tools
-![WordPress](./assets/WordPress@1x.svg)
-![Directus](./assets/Directus@1x.svg)
-![VueJs](./assets/VueJs@1x.svg)
-![Nuxt](./assets/Nuxt@1x.svg)
-![Vuetify](./assets/Vuetify@1x.svg)
-![Tailwind](./assets/Tailwind@1x.svg)
-![Express](./assets/Express@1x.svg)
-![Laravel](./assets/Laravel@1x.svg)
+![WordPress](./assets/cards/WordPress@1x.svg)
+![Directus](./assets/cards/Directus@1x.svg)
+![VueJs](./assets/cards/VueJs@1x.svg)
+![Nuxt](./assets/cards/Nuxt@1x.svg)
+![Vuetify](./assets/cards/Vuetify@1x.svg)
+![Tailwind](./assets/cards/Tailwind@1x.svg)
+![Express](./assets/cards/Express@1x.svg)
+![Laravel](./assets/cards/Laravel@1x.svg)
 
 ### Programming languages
-![JavaScript](./assets/JavaScript@1x.svg)
-![NodeJs](./assets/NodeJs@1x.svg)
-![PHP](./assets//PHP@1x.svg)
-![SASS/SCSS](./assets/SASS-SCSS@1x.svg)
-![CSS](./assets/CSS@1x.svg)
-![REST-API](./assets/REST-API@1x.svg)
+![JavaScript](./assets/cards/JavaScript@1x.svg)
+![NodeJs](./assets/cards/NodeJs@1x.svg)
+![PHP](./assets/cards//PHP@1x.svg)
+![SASS/SCSS](./assets/cards/SASS-SCSS@1x.svg)
+![CSS](./assets/cards/CSS@1x.svg)
+![REST-API](./assets/cards/REST-API@1x.svg)
 
 ### Coming soon...
-![Your Project](./assets/your-project@1x.svg)
+![Your Project](./assets/cards/your-project@1x.svg)
 
 
-![Utomic Media](./assets/Utomic-Media-Logo.png)
+![Utomic Media](./assets/cards/Utomic-Media-Logo.png)
 
