@@ -18,62 +18,62 @@
 ### Services
 
 <img 
-  src="./assets/cards/Webdevelopment@1x.svg"
+  src="./assets/cards/Webdevelopment.svg"
   alt="Webdevelopment"
   width="240px"
 />
 <img 
-  src="./assets/cards/Webdesign@1x.svg"
+  src="./assets/cards/Webdesign.svg"
   alt="Webdesign"
   width="240px"
 />
 <img 
-  src="./assets/cards/CMS@1x.svg"
+  src="./assets/cards/CMS.svg"
   alt="CMS"
   width="240px"
 />
 <img 
-  src="./assets/cards/Newsletter@1x.svg"
+  src="./assets/cards/Newsletter.svg"
   alt="Newsletter"
   width="240px"
 />
 <img 
-  src="./assets/cards/Online-Marketing@1x.svg"
+  src="./assets/cards/Online-Marketing.svg"
   alt="Online-Marketing"
   width="240px"
 />
 <img 
-  src="./assets/cards/Online-Shops@1x.svg"
+  src="./assets/cards/Online-Shops.svg"
   alt="Online-Shops"
   width="240px"
 />
 <img 
-  src="./assets/cards/Plugin-Extensions@1x.svg"
+  src="./assets/cards/Plugin-Extensions.svg"
   alt="Plugins and Extensions"
   width="240px"
 />
 
      
 ### Tools
-![WordPress](./assets/cards/WordPress@1x.svg)
-![Directus](./assets/cards/Directus@1x.svg)
-![VueJs](./assets/cards/VueJs@1x.svg)
-![Nuxt](./assets/cards/Nuxt@1x.svg)
-![Vuetify](./assets/cards/Vuetify@1x.svg)
-![Tailwind](./assets/cards/Tailwind@1x.svg)
-![Express](./assets/cards/Express@1x.svg)
-![Laravel](./assets/cards/Laravel@1x.svg)
+![WordPress](./assets/cards/WordPress.svg)
+![Directus](./assets/cards/Directus.svg)
+![VueJs](./assets/cards/VueJs.svg)
+![Nuxt](./assets/cards/Nuxt.svg)
+![Vuetify](./assets/cards/Vuetify.svg)
+![Tailwind](./assets/cards/Tailwind.svg)
+![Express](./assets/cards/Express.svg)
+![Laravel](./assets/cards/Laravel.svg)
 
 ### Programming languages
-![JavaScript](./assets/cards/JavaScript@1x.svg)
-![NodeJs](./assets/cards/NodeJs@1x.svg)
-![PHP](./assets/cards//PHP@1x.svg)
-![SASS/SCSS](./assets/cards/SASS-SCSS@1x.svg)
-![CSS](./assets/cards/CSS@1x.svg)
-![REST-API](./assets/cards/REST-API@1x.svg)
+![JavaScript](./assets/cards/JavaScript.svg)
+![NodeJs](./assets/cards/NodeJs.svg)
+![PHP](./assets/cards//PHP.svg)
+![SASS/SCSS](./assets/cards/SASS-SCSS.svg)
+![CSS](./assets/cards/CSS.svg)
+![REST-API](./assets/cards/REST-API.svg)
 
 ### Coming soon...
-![Your Project](./assets/cards/your-project@1x.svg)
+![Your Project](./assets/cards/your-project.svg)
 
 
 ![Utomic Media](./assets/cards/Utomic-Media-Logo.png)
