@@ -131,7 +131,7 @@
 
 
 
-### Coming soon...
+### What's next?
 <img 
   src="./assets/cards/your-project.svg"
   alt="Your Project"
