@@ -18,7 +18,7 @@
 ### Services
 
 <img 
-  src="./assets/cards/Webdevelopment.svg"
+  src="../assets/cards/Webdevelopment.svg"
   alt="Webdevelopment"
   width="200px"
 />
