@@ -22,7 +22,7 @@ What's changed:
 <!-- Put an `x` in all the boxes that apply. -->
 - [ ] I have linked a ticket
 - [ ] I have updated the documentation accordingly
-- [ ] Assign Copilot Review
+- [ ] Request Copilot Review
 
 ---
 
