@@ -6,12 +6,13 @@ assignees: ''
 
 
 body:
- - type: textarea
+  - type: textarea
     attributes:
       label: Describe the Bug
       description: A clear and concise description of what the bug is.
     validations:
-      required: true
+     required: true
+
   - type: textarea
     attributes:
       label: To Reproduce
@@ -20,6 +21,7 @@ body:
         the bug.
     validations:
       required: true
+  
   - type: textarea
     id: additional-context
     attributes:
