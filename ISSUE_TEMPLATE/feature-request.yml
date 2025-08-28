@@ -1,0 +1,13 @@
+name: "🚀 Feature request / improvement"
+description: Suggest a feature that will improve the project
+labels: []
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Describe the request
+      description: A clear and concise description of what the request / improvement is. Please include as much detail as you can.
+      placeholder: Description
+    validations:
+      required: true
+
